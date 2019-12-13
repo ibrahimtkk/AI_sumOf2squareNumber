@@ -1,0 +1,1 @@
+# AI_sumOf2squareNumber
